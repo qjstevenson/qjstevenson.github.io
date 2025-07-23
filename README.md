@@ -1,7 +1,7 @@
-<h3 align="center">Welcome</h3>
+<h3 align="center">Hi there, welcome to my page</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/quinn-stevenson-627734b4/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/quinn-stevenson-627734b4/">LinkedIn</a>
 </p>
 
 ---
@@ -11,5 +11,5 @@ Outside of data/tech, I’m a book worm, videogame enthusiast, and food lover!
 
 ---
 
--  Reach me on [email](mailto:quinnjstevenson@gmail.com)  
--  Pronouns: He/Him
+-  📫 Reach me on [email](mailto:quinnjstevenson@gmail.com)  
+
